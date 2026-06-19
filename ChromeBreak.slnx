@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ChromeBreak/ChromeBreak.vcxproj" Id="0e49a38b-6c87-49fa-84ff-5144db6d14a2" />
+</Solution>

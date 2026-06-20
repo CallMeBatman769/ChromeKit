@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\olisc\source\repos\ChromeBreak\ChromeBreak\main.cpp(144,8): warning C4101: "oldproect": Unreferenzierte lokale Variable
+  ChromeBreak.vcxproj -> C:\Users\olisc\source\repos\ChromeBreak\x64\Debug\ChromeBreak.exe
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.
